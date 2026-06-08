@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vandu63.github.io"><img src="https://img.shields.io/badge/Portfolio-Vandana_Yadav-%230f1520?style=for-the-badge&logo=google-chrome&logoColor=%238b5cf6" alt="Portfolio" /></a>
+  <a href="https://portfolio-nine-bice-87.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Vandana_Yadav-%230f1520?style=for-the-badge&logo=google-chrome&logoColor=%238b5cf6" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/vandana-yadav-07438928b"><img src="https://img.shields.io/badge/LinkedIn-Vandana_Yadav-%230f1520?style=for-the-badge&logo=linkedin&logoColor=%238b5cf6" alt="LinkedIn" /></a>
   <a href="mailto:vandana33yadav@gmail.com"><img src="https://img.shields.io/badge/Email-vandana33yadav%40gmail.com-%230f1520?style=for-the-badge&logo=gmail&logoColor=%238b5cf6" alt="Email" /></a>
 </p>
@@ -76,13 +76,13 @@ I am a curious researcher and engineer currently pursuing my **M.Tech in Artific
 ### 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vandu63&show_icons=true&title_color=8b5cf6&text_color=e2e8f0&icon_color=a78bfa&bg_color=0f1520&hide_border=true" alt="Vandana's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=Vandu63&show_icons=true&title_color=8b5cf6&text_color=e2e8f0&icon_color=a78bfa&bg_color=0f1520&hide_border=true" alt="Vandana's GitHub Stats" width="48%" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vandu63&layout=compact&title_color=8b5cf6&text_color=e2e8f0&icon_color=a78bfa&bg_color=0f1520&hide_border=true" alt="Vandana's Top Languages" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Vandu63&layout=compact&title_color=8b5cf6&text_color=e2e8f0&icon_color=a78bfa&bg_color=0f1520&hide_border=true" alt="Vandana's Top Languages" width="48%" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Designed with 💜 matching my portfolio theme. Check out my live portfolio website at <a href="https://vandu63.github.io">vandu63.github.io</a>.</sub>
+  <sub>Designed with 💜 matching my portfolio theme. Check out my portfolio website at <a href="https://portfolio-nine-bice-87.vercel.app">portfolio-nine-bice-87.vercel.app</a>.</sub>
 </p>
